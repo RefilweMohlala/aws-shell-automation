@@ -1,5 +1,5 @@
 # aws-shell-automation
-This project automates the retrieval of AWS resources ( EC2 instances, S3 buckets, Lmbda functions, and Iam) using shell scripting. It schedules tasks via cron jobs, providing a lightweight and effecient solution for monitoring AWS environments.
+This project automates the retrieval of AWS resources ( EC2 instances, S3 buckets, Lambda functions, and Iam) using shell scripting. It schedules tasks via cron jobs, providing a lightweight and effecient solution for monitoring AWS environments.
 
 ## Features
 -Automated scheduling with cron jobs.
@@ -18,5 +18,5 @@ This project automates the retrieval of AWS resources ( EC2 instances, S3 bucket
 ## Installation
 1. Clone this repository
    '''bash
-   git clone https://github.com/RefilweMohlala/aws-shell-automation.git
-   cd aws-shell-automation
+  - git clone https://github.com/RefilweMohlala/aws-shell-automation.git
+  - cd aws-shell-automation
